@@ -33,13 +33,15 @@ Les circuits électriques sont spécifiés dans les README des drivers.
 Sonar de proximité affichant le distance calculée toutes les secondes en **mm** sur un afficheur 7-segments à 3 digits.
 
 Ce projet est constitué des éléments suivants :
-- le driver du sonar de proximité sous `ProximityRadarDriver`
-- le driver du 7-segment à 3 digits sous `DisplayDriver`
-- un petit module utilisateur faisant l'interface entre les 2 composants précédents, calculant la distance de l'objet en face du sonar toutes les secondes. Sous : `SonarDisplayUserInterface`.
+- le driver du sonar de proximité sous `proximity-sonar-driver`
+- le driver du 7-segment à 3 digits sous `display-driver`
+- un petit module utilisateur faisant l'interface entre les 2 composants précédents, calculant la distance de l'objet en face du sonar toutes les secondes. Sous : `sonar-display-user-interface`.
 - une petite vidéo de présentation du projet présentée par G.Garcia filmée par A.Jamet
 
 Une documentation complète de chaque driver/circuit électronique utilisé est détaillée dans [proximity-sonar-driver/README.md](proximity-sonar-driver/README.md) et [display-driver/README.md](display-river/README.md)
 
 ### Vidéo de démonstration du projet
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/S7bQagEMhYM/0.jpg)](http://www.youtube.com/watch?v=S7bQagEMhYM)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=S7bQagEMhYM
+" target="_blank"><img src="http://img.youtube.com/vi/S7bQagEMhYM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
