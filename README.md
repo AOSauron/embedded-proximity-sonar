@@ -39,3 +39,7 @@ Ce projet est constitué des éléments suivants :
 - une petite vidéo de présentation du projet présentée par G.Garcia filmée par A.Jamet
 
 Une documentation complète de chaque driver/circuit électronique utilisé est détaillée dans [proximity-sonar-driver/README.md](proximity-sonar-driver/README.md) et [display-driver/README.md](display-river/README.md)
+
+### Vidéo de démonstration du projet
+
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=S7bQagEMhYM&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=S7bQagEMhYM&feature=youtu.be)
