@@ -42,4 +42,4 @@ Une documentation complète de chaque driver/circuit électronique utilisé est 
 
 ### Vidéo de démonstration du projet
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=S7bQagEMhYM&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=S7bQagEMhYM&feature=youtu.be)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/S7bQagEMhYM/0.jpg)](http://www.youtube.com/watch?v=S7bQagEMhYM)
