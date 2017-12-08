@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PROXIMITYSONARDRIVER
+    bool proxmitysonardriver
+        help
+            Pilote du capteur de proximite par Guillaume Garcia & Alexandre V. Jamet <3

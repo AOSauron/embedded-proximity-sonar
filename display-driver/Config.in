@@ -1,0 +1,4 @@
+config BR2_PACKAGE_DISPLAYDRIVER
+    bool displaydriver
+        help
+            Pilote du triple afficher sept segments par Guillaume Garcia & Alexandre V. Jamet <3

@@ -1,0 +1,4 @@
+config BR2_PACKAGE_SONARDISPLAYUSERINTERFACE
+	bool SonarDisplayUserInterface
+		help
+			User interfrace between 7-segments displayer and the sonar
