@@ -44,4 +44,4 @@ Une documentation complète de chaque driver/circuit électronique utilisé est 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=S7bQagEMhYM
 " target="_blank"><img src="http://img.youtube.com/vi/S7bQagEMhYM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="280" height="360" border="2" /></a>
