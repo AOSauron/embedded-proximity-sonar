@@ -4,3 +4,6 @@
 [submodule "ProximityRadarDriver"]
 	path = ProximityRadarDriver
 	url = https://gitlab.telecomnancy.univ-lorraine.fr/Alexandre.Jamet/ProximityRadarDriver.git
+[submodule "SonarDisplayUserInterface"]
+	path = SonarDisplayUserInterface
+	url = https://gitlab.telecomnancy.univ-lorraine.fr/Alexandre.Jamet/SonarDisplayUserInterface.git
