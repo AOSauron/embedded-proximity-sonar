@@ -4,7 +4,7 @@
 
 *Projet du cadre de la semaine embarquée 3A LE à TELECOM Nancy*
 
-![alt text](embedded-prox-sonar.png)
+![alt text](embedded-prox-sonar.jpg)
 
 ### Auteurs
 
